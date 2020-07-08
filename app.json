@@ -1,0 +1,12 @@
+{
+  "name": "calcTutorial",
+  "displayName": "calcTutorial",
+  "expo": {
+    "name": "calcTutorial",
+    "slug": "calcTutorial",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
