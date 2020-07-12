@@ -1,6 +1,7 @@
 "# calculatorAppTutorial" 
 
 Tutorial no youtube: https://www.youtube.com/watch?v=0rPgfE7HyiM&t=61s
+
 Tutorial no medium: https://medium.com/@clewerton203/criando-uma-calculadora-com-react-native-267bf250800f
 
 Resultado final: 
