@@ -6,4 +6,4 @@ Tutorial no medium: https://medium.com/@clewerton203/criando-uma-calculadora-com
 
 Resultado final: 
 
-<img src="https://user-images.githubusercontent.com/48888681/87255134-9096e700-c45e-11ea-8291-1652fc2886ce.jpg" >
+<img src="https://user-images.githubusercontent.com/48888681/87295572-cded8a00-c4db-11ea-8efe-f5f81dceea17.png" >
